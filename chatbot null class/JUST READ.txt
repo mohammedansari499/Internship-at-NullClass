@@ -1,0 +1,3 @@
+main.py trains the data
+gui1.py loads the model
+ runs on base conda
