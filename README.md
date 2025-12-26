@@ -60,10 +60,3 @@ Unlike traditional **rule-based website chatbots**, **ChatBotT2** is an **AI-pow
 
 While existing website chatbots are limited to **basic, scripted interactions**, **ChatBotT2 represents a next-generation AI assistant** that combines **text + vision understanding, dynamic knowledge management, and generative intelligence**—making it significantly **smarter, faster, scalable, and enterprise-ready**.
 
----
-
-If you want, I can:
-
-* Convert this into a **visual comparison slide**
-* Create a **problem → solution → impact slide**
-* Rephrase this for **internship PPT / viva / resume explanation**
